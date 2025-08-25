@@ -1,0 +1,46 @@
+{
+    "site": {
+        "name": "Little X Garden",
+        "url": "https://littlexgarden.com",
+        "description": "Mon site de partage de ressources et articles",
+        "author": "TonNom",
+        "pages": [
+            {
+                "title": "Accueil",
+                "url": "/",
+                "date": "2025-08-25",
+                "tags": [
+                    "home",
+                    "introduction"
+                ]
+            },
+            {
+                "title": "Articles",
+                "url": "/articles",
+                "date": "2025-08-24",
+                "tags": [
+                    "blog",
+                    "news"
+                ]
+            },
+            {
+                "title": "Contact",
+                "url": "/contact",
+                "date": "2025-08-23",
+                "tags": [
+                    "form",
+                    "email"
+                ]
+            },
+            {
+                "title": "À propos",
+                "url": "/about",
+                "date": "2025-08-22",
+                "tags": [
+                    "info",
+                    "about"
+                ]
+            }
+        ]
+    }
+}
